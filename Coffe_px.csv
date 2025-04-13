@@ -1,0 +1,1001 @@
+product_id,product_name,size,product_category,customer_id
+P001,sandwiches,Medium,eatable,C0001
+P002,tea,Small,drinkable,C0002
+P003,juice,Small,Drink Food,C0003
+P004,coffee,Medium,drinkable,C0004
+P005,sandwiches,Small,eatable,C0005
+P006,sandwiches,Small,eatable,C0006
+P007,pizza,,eatable,C0007
+P008,tea,Medium,drinkable,C0008
+P009,sandwiches,Large,eatable,C0009
+P010,juice,Small,drinkable,C0010
+P011,sandwiches,Medium,Drink Food,C0011
+P012,tea,Large,drinkable,C0012
+P013,pizza,Medium,eatable,C0013
+P014,coffee,Large,eatable,C0014
+P015,shake,Large,eatable,C0015
+P016,shake,Large,eatable,C0016
+P017,sandwiches,Large,drinkable,C0017
+P018,juice,Small,Drink Food,C0018
+P019,shake,Large,drinkable,C0019
+P020,coffee,Small,eatable,C0020
+P021,juice,,eatable,C0021
+P022,sandwiches,Small,eatable,C0022
+P023,sandwiches,,drinkable,C0023
+P024,coffee,Small,eatable,C0024
+P025,PIZZA,Medium,drinkable,C0025
+P026,shake,Medium,Drink Food,C0026
+P027,coffee,,drinkable,C0027
+P028,pizza,Medium,eatable,C0028
+P029,juice,Small,eatable,C0029
+P030,sandwiches,Large,eatable,C0030
+P031,sandwiches,Small,eatable,C0031
+P032,sandwiches,,drinkable,C0032
+P033,coffee,Small,Drink Food,C0033
+P034,sandwiches,Large,drinkable,C0034
+P035,juice,Large,eatable,C0035
+P036,shake,,eatable,C0036
+P037,juice,,eatable,C0037
+P038,juice,Small,drinkable,C0038
+P039,juice,Small,eatable,C0039
+P040,juice,,drinkable,C0040
+P041,pizza,Medium,Drink Food,C0041
+P042,pizza,Large,drinkable,C0042
+P043,shake,Small,eatable,C0043
+P044,coffee,,eatable,C0044
+P045,sandwiches,Small,eatable,C0045
+P046,coffee,,eatable,C0046
+P047,sandwiches,Large,drinkable,C0047
+P048,coffee,,Drink Food,C0048
+P049,tea,,drinkable,C0049
+P050,shake,Small,eatable,C0050
+P051,sandwiches,Small,eatable,C0051
+P052,coffee,,eatable,C0052
+P053,sandwiches,Medium,drinkable,C0053
+P054,coffee,Large,eatable,C0054
+P055,tea,Small,drinkable,C0055
+P056,shake,,Drink Food,C0056
+P057,sandwiches,Small,drinkable,C0057
+P058,coffee,,eatable,C0058
+P059,sandwiches,Large,eatable,C0059
+P060,coffee,,eatable,C0060
+P061,tea,,eatable,C0061
+P062,shake,Small,drinkable,C0062
+P063,sandwiches,Small,Drink Food,C0063
+P064,coffee,,drinkable,C0064
+P065,sandwiches,Medium,eatable,C0065
+P066,coffee,Large,eatable,C0066
+P067,tea,Small,eatable,C0067
+P068,shake,,drinkable,C0068
+P069,sandwiches,Small,eatable,C0069
+P070,coffee,,drinkable,C0070
+P071,sandwiches,Large,Drink Food,C0071
+P072,coffee,,drinkable,C0072
+P073,tea,,eatable,C0073
+P074,shake,Small,eatable,C0074
+P075,sandwiches,Small,eatable,C0075
+P076,coffee,,eatable,C0076
+P077,sandwiches,Medium,drinkable,C0077
+P078,coffee,Large,Drink Food,C0078
+P079,tea,Small,drinkable,C0079
+P080,shake,,eatable,C0080
+P081,sandwiches,Small,eatable,C0081
+P082,coffee,,eatable,C0082
+P083,sandwiches,Large,drinkable,C0083
+P084,coffee,,eatable,C0084
+P085,tea,,drinkable,C0085
+P086,shake,Small,Drink Food,C0086
+P087,sandwiches,Small,drinkable,C0087
+P088,coffee,,eatable,C0088
+P089,sandwiches,Medium,eatable,C0089
+P090,coffee,Large,eatable,C0090
+P091,tea,Small,eatable,C0091
+P092,shake,,drinkable,C0092
+P093,sandwiches,Small,Drink Food,C0093
+P094,coffee,,drinkable,C0094
+P095,sandwiches,Large,eatable,C0095
+P096,coffee,,eatable,C0096
+P097,tea,,eatable,C0097
+P098,shake,Small,drinkable,C0098
+P099,sandwiches,Small,eatable,C0099
+P100,coffee,,drinkable,C0100
+P101,sandwiches,Medium,Drink Food,C0101
+P102,coffee,Large,drinkable,C0102
+P103,tea,Small,eatable,C0103
+P104,shake,,eatable,C0104
+P105,sandwiches,Small,eatable,C0105
+P106,coffee,,eatable,C0106
+P107,sandwiches,Large,drinkable,C0107
+P108,coffee,,Drink Food,C0108
+P109,tea,,drinkable,C0109
+P110,shake,Small,eatable,C0110
+P111,sandwiches,Large,eatable,C0111
+P112,coffee,,eatable,C0112
+P113,sandwiches,,drinkable,C0113
+P114,coffee,Small,eatable,C0114
+P115,tea,Small,drinkable,C0115
+P116,shake,,Drink Food,C0116
+P117,sandwiches,Medium,drinkable,C0117
+P118,coffee,Large,eatable,C0118
+P119,sandwiches,Small,eatable,C0119
+P120,coffee,,eatable,C0120
+P121,tea,Small,eatable,C0121
+P122,shake,,drinkable,C0122
+P123,sandwiches,Large,Drink Food,C0123
+P124,coffee,,drinkable,C0124
+P125,sandwiches,,eatable,C0125
+P126,coffee,Small,eatable,C0126
+P127,tea,Small,eatable,C0127
+P128,shake,,drinkable,C0128
+P129,sandwiches,Medium,eatable,C0129
+P130,coffee,Large,drinkable,C0130
+P131,sandwiches,Small,Drink Food,C0131
+P132,coffee,,drinkable,C0132
+P133,tea,Small,eatable,C0133
+P134,shake,,eatable,C0134
+P135,sandwiches,Large,eatable,C0135
+P136,coffee,,eatable,C0136
+P137,sandwiches,,drinkable,C0137
+P138,coffee,Small,Drink Food,C0138
+P139,tea,Small,drinkable,C0139
+P140,shake,,eatable,C0140
+P141,sandwiches,Medium,eatable,C0141
+P142,coffee,Large,eatable,C0142
+P143,sandwiches,Small,drinkable,C0143
+P144,coffee,,eatable,C0144
+P145,tea,Small,drinkable,C0145
+P146,shake,,Drink Food,C0146
+P147,sandwiches,Large,drinkable,C0147
+P148,coffee,,eatable,C0148
+P149,sandwiches,,eatable,C0149
+P150,coffee,Small,eatable,C0150
+P151,tea,Small,eatable,C0151
+P152,shake,,drinkable,C0152
+P153,sandwiches,Medium,Drink Food,C0153
+P154,coffee,Large,drinkable,C0154
+P155,sandwiches,Small,eatable,C0155
+P156,coffee,,eatable,C0156
+P157,tea,Small,eatable,C0157
+P158,shake,,drinkable,C0158
+P159,sandwiches,Large,eatable,C0159
+P160,coffee,,drinkable,C0160
+P161,sandwiches,,Drink Food,C0161
+P162,coffee,Small,drinkable,C0162
+P163,tea,Small,eatable,C0163
+P164,shake,,eatable,C0164
+P165,sandwiches,Medium,eatable,C0165
+P166,coffee,Large,eatable,C0166
+P167,sandwiches,Small,drinkable,C0167
+P168,coffee,,Drink Food,C0168
+P169,tea,Small,drinkable,C0169
+P170,shake,,eatable,C0170
+P171,sandwiches,Large,eatable,C0171
+P172,coffee,,eatable,C0172
+P173,sandwiches,,drinkable,C0173
+P174,coffee,Small,eatable,C0174
+P175,tea,Small,drinkable,C0175
+P176,shake,,Drink Food,C0176
+P177,sandwiches,Medium,drinkable,C0177
+P178,coffee,Large,eatable,C0178
+P179,sandwiches,Small,eatable,C0179
+P180,coffee,,eatable,C0180
+P181,tea,Small,eatable,C0181
+P182,shake,,drinkable,C0182
+P183,sandwiches,Large,Drink Food,C0183
+P184,coffee,,drinkable,C0184
+P185,sandwiches,,eatable,C0185
+P186,coffee,Small,eatable,C0186
+P187,tea,Large,eatable,C0187
+P188,shake,,drinkable,C0188
+P189,sandwiches,,eatable,C0189
+P190,coffee,Small,drinkable,C0190
+P191,sandwiches,Small,Drink Food,C0191
+P192,coffee,,drinkable,C0192
+P193,tea,Medium,eatable,C0193
+P194,shake,Large,eatable,C0194
+P195,sandwiches,Small,eatable,C0195
+P196,coffee,,eatable,C0196
+P197,sandwiches,Small,drinkable,C0197
+P198,coffee,,Drink Food,C0198
+P199,tea,Large,drinkable,C0199
+P200,shake,,eatable,C0200
+P201,sandwiches,,eatable,C0201
+P202,coffee,Small,eatable,C0202
+P203,sandwiches,Small,drinkable,C0203
+P204,coffee,,eatable,C0204
+P205,tea,Medium,drinkable,C0205
+P206,shake,Large,Drink Food,C0206
+P207,sandwiches,Small,drinkable,C0207
+P208,coffee,,eatable,C0208
+P209,sandwiches,Small,eatable,C0209
+P210,coffee,,eatable,C0210
+P211,tea,Large,eatable,C0211
+P212,shake,,drinkable,C0212
+P213,sandwiches,,Drink Food,C0213
+P214,coffee,Small,drinkable,C0214
+P215,sandwiches,Small,eatable,C0215
+P216,coffee,,eatable,C0216
+P217,tea,Medium,eatable,C0217
+P218,shake,Large,drinkable,C0218
+P219,sandwiches,Small,eatable,C0219
+P220,coffee,,drinkable,C0220
+P221,sandwiches,Small,Drink Food,C0221
+P222,coffee,,drinkable,C0222
+P223,tea,Large,eatable,C0223
+P224,shake,,eatable,C0224
+P225,sandwiches,,eatable,C0225
+P226,coffee,Small,eatable,C0226
+P227,sandwiches,Small,drinkable,C0227
+P228,coffee,,Drink Food,C0228
+P229,tea,Medium,drinkable,C0229
+P230,shake,Large,eatable,C0230
+P231,sandwiches,Small,eatable,C0231
+P232,coffee,,eatable,C0232
+P233,sandwiches,Small,drinkable,C0233
+P234,coffee,,eatable,C0234
+P235,tea,Large,drinkable,C0235
+P236,shake,,Drink Food,C0236
+P237,sandwiches,,drinkable,C0237
+P238,coffee,Small,eatable,C0238
+P239,sandwiches,Small,eatable,C0239
+P240,coffee,,eatable,C0240
+P241,tea,Medium,eatable,C0241
+P242,shake,Large,drinkable,C0242
+P243,sandwiches,Small,Drink Food,C0243
+P244,coffee,,drinkable,C0244
+P245,sandwiches,Small,eatable,C0245
+P246,coffee,,eatable,C0246
+P247,tea,Large,eatable,C0247
+P248,shake,,drinkable,C0248
+P249,sandwiches,,eatable,C0249
+P250,coffee,Small,drinkable,C0250
+P251,sandwiches,Small,Drink Food,C0251
+P252,coffee,,drinkable,C0252
+P253,tea,Medium,eatable,C0253
+P254,shake,Large,eatable,C0254
+P255,sandwiches,Small,eatable,C0255
+P256,coffee,,eatable,C0256
+P257,sandwiches,Small,drinkable,C0257
+P258,coffee,,Drink Food,C0258
+P259,tea,Large,drinkable,C0259
+P260,shake,,eatable,C0260
+P261,sandwiches,,eatable,C0261
+P262,coffee,Small,eatable,C0262
+P263,sandwiches,Large,drinkable,C0263
+P264,coffee,,eatable,C0264
+P265,tea,,drinkable,C0265
+P266,shake,Small,Drink Food,C0266
+P267,sandwiches,Small,drinkable,C0267
+P268,coffee,,eatable,C0268
+P269,sandwiches,Medium,eatable,C0269
+P270,coffee,Large,eatable,C0270
+P271,tea,Small,eatable,C0271
+P272,shake,,drinkable,C0272
+P273,sandwiches,Small,Drink Food,C0273
+P274,coffee,,drinkable,C0274
+P275,sandwiches,Large,eatable,C0275
+P276,coffee,,eatable,C0276
+P277,tea,,eatable,C0277
+P278,shake,Small,drinkable,C0278
+P279,sandwiches,Small,eatable,C0279
+P280,coffee,,drinkable,C0280
+P281,sandwiches,Medium,Drink Food,C0281
+P282,coffee,Large,drinkable,C0282
+P283,tea,Small,eatable,C0283
+P284,shake,,eatable,C0284
+P285,sandwiches,Small,eatable,C0285
+P286,coffee,,eatable,C0286
+P287,sandwiches,Large,drinkable,C0287
+P288,coffee,,Drink Food,C0288
+P289,tea,,drinkable,C0289
+P290,shake,Small,eatable,C0290
+P291,sandwiches,Small,eatable,C0291
+P292,coffee,,eatable,C0292
+P293,sandwiches,Medium,drinkable,C0293
+P294,coffee,Large,eatable,C0294
+P295,tea,Small,drinkable,C0295
+P296,shake,,Drink Food,C0296
+P297,sandwiches,Small,drinkable,C0297
+P298,coffee,,eatable,C0298
+P299,sandwiches,Large,eatable,C0299
+P300,coffee,,eatable,C0300
+P301,tea,,eatable,C0301
+P302,shake,Small,drinkable,C0302
+P303,sandwiches,Small,Drink Food,C0303
+P304,coffee,,drinkable,C0304
+P305,sandwiches,Medium,eatable,C0305
+P306,coffee,Large,eatable,C0306
+P307,tea,Small,eatable,C0307
+P308,shake,,drinkable,C0308
+P309,sandwiches,Small,eatable,C0309
+P310,coffee,,drinkable,C0310
+P311,sandwiches,Large,Drink Food,C0311
+P312,coffee,,drinkable,C0312
+P313,tea,,eatable,C0313
+P314,shake,Small,eatable,C0314
+P315,sandwiches,Small,eatable,C0315
+P316,coffee,,eatable,C0316
+P317,sandwiches,Medium,drinkable,C0317
+P318,coffee,Large,Drink Food,C0318
+P319,tea,Small,drinkable,C0319
+P320,shake,,eatable,C0320
+P321,sandwiches,Small,eatable,C0321
+P322,coffee,,eatable,C0322
+P323,sandwiches,Large,drinkable,C0323
+P324,coffee,,eatable,C0324
+P325,tea,,drinkable,C0325
+P326,shake,Small,Drink Food,C0326
+P327,sandwiches,Small,drinkable,C0327
+P328,coffee,,eatable,C0328
+P329,sandwiches,Medium,eatable,C0329
+P330,coffee,Large,eatable,C0330
+P331,tea,Small,eatable,C0331
+P332,shake,,drinkable,C0332
+P333,sandwiches,Small,Drink Food,C0333
+P334,coffee,,drinkable,C0334
+P335,sandwiches,Large,eatable,C0335
+P336,coffee,,eatable,C0336
+P337,tea,,eatable,C0337
+P338,shake,Small,drinkable,C0338
+P339,sandwiches,Large,eatable,C0339
+P340,coffee,,drinkable,C0340
+P341,sandwiches,,Drink Food,C0341
+P342,coffee,Small,drinkable,C0342
+P343,tea,Small,eatable,C0343
+P344,shake,,eatable,C0344
+P345,sandwiches,Medium,eatable,C0345
+P346,coffee,Large,eatable,C0346
+P347,sandwiches,Small,drinkable,C0347
+P348,coffee,,Drink Food,C0348
+P349,tea,Small,drinkable,C0349
+P350,shake,,eatable,C0350
+P351,sandwiches,Large,eatable,C0351
+P352,coffee,,eatable,C0352
+P353,sandwiches,,drinkable,C0353
+P354,coffee,Small,eatable,C0354
+P355,tea,Small,drinkable,C0355
+P356,shake,,Drink Food,C0356
+P357,sandwiches,Medium,drinkable,C0357
+P358,coffee,Large,eatable,C0358
+P359,sandwiches,Small,eatable,C0359
+P360,coffee,,eatable,C0360
+P361,tea,Small,eatable,C0361
+P362,shake,,drinkable,C0362
+P363,sandwiches,Large,Drink Food,C0363
+P364,coffee,,drinkable,C0364
+P365,sandwiches,,eatable,C0365
+P366,coffee,Small,eatable,C0366
+P367,tea,Small,eatable,C0367
+P368,shake,,drinkable,C0368
+P369,sandwiches,Medium,eatable,C0369
+P370,coffee,Large,drinkable,C0370
+P371,sandwiches,Small,Drink Food,C0371
+P372,coffee,,drinkable,C0372
+P373,tea,Small,eatable,C0373
+P374,shake,,eatable,C0374
+P375,sandwiches,Large,eatable,C0375
+P376,coffee,,eatable,C0376
+P377,sandwiches,,drinkable,C0377
+P378,coffee,Small,eatable,C0378
+P379,tea,Small,drinkable,C0379
+P380,shake,,Drink Food,C0380
+P381,sandwiches,Medium,drinkable,C0381
+P382,coffee,Large,eatable,C0382
+P383,sandwiches,Small,eatable,C0383
+P384,coffee,,eatable,C0384
+P385,tea,Small,eatable,C0385
+P386,shake,,drinkable,C0386
+P387,sandwiches,Large,eatable,C0387
+P388,coffee,,drinkable,C0388
+P389,sandwiches,,Drink Food,C0389
+P390,coffee,Small,drinkable,C0390
+P391,tea,Small,eatable,C0391
+P392,shake,,eatable,C0392
+P393,sandwiches,Medium,eatable,C0393
+P394,coffee,Large,eatable,C0394
+P395,sandwiches,Small,drinkable,C0395
+P396,coffee,,eatable,C0396
+P397,tea,Small,drinkable,C0397
+P398,shake,,Drink Food,C0398
+P399,sandwiches,Large,drinkable,C0399
+P400,coffee,,eatable,C0400
+P401,sandwiches,,eatable,C0401
+P402,coffee,Small,eatable,C0402
+P403,tea,Small,eatable,C0403
+P404,shake,,drinkable,C0404
+P405,sandwiches,Medium,eatable,C0405
+P406,coffee,Large,drinkable,C0406
+P407,sandwiches,Small,Drink Food,C0407
+P408,coffee,,drinkable,C0408
+P409,tea,Small,eatable,C0409
+P410,shake,,eatable,C0410
+P411,sandwiches,Large,eatable,C0411
+P412,coffee,,eatable,C0412
+P413,sandwiches,,drinkable,C0413
+P414,coffee,Small,eatable,C0414
+P415,tea,Large,drinkable,C0415
+P416,shake,,Drink Food,C0416
+P417,sandwiches,,drinkable,C0417
+P418,coffee,Small,eatable,C0418
+P419,sandwiches,Small,eatable,C0419
+P420,coffee,,eatable,C0420
+P421,tea,Medium,eatable,C0421
+P422,shake,Large,drinkable,C0422
+P423,sandwiches,Small,eatable,C0423
+P424,coffee,,drinkable,C0424
+P425,sandwiches,Small,Drink Food,C0425
+P426,coffee,,drinkable,C0426
+P427,tea,Large,eatable,C0427
+P428,shake,,eatable,C0428
+P429,sandwiches,,eatable,C0429
+P430,coffee,Small,eatable,C0430
+P431,sandwiches,Small,drinkable,C0431
+P432,coffee,,eatable,C0432
+P433,tea,Medium,drinkable,C0433
+P434,shake,Large,Drink Food,C0434
+P435,sandwiches,Small,drinkable,C0435
+P436,coffee,,eatable,C0436
+P437,sandwiches,Small,eatable,C0437
+P438,coffee,,eatable,C0438
+P439,tea,Large,eatable,C0439
+P440,shake,,drinkable,C0440
+P441,sandwiches,,eatable,C0441
+P442,coffee,Small,drinkable,C0442
+P443,sandwiches,Small,Drink Food,C0443
+P444,coffee,,drinkable,C0444
+P445,tea,Medium,eatable,C0445
+P446,shake,Large,eatable,C0446
+P447,sandwiches,Small,eatable,C0447
+P448,coffee,,eatable,C0448
+P449,sandwiches,Small,drinkable,C0449
+P450,coffee,,eatable,C0450
+P451,tea,Large,drinkable,C0451
+P452,shake,,Drink Food,C0452
+P453,sandwiches,,drinkable,C0453
+P454,coffee,Small,eatable,C0454
+P455,sandwiches,Small,eatable,C0455
+P456,coffee,,eatable,C0456
+P457,tea,Medium,eatable,C0457
+P458,shake,Large,drinkable,C0458
+P459,sandwiches,Small,eatable,C0459
+P460,coffee,,drinkable,C0460
+P461,sandwiches,Small,Drink Food,C0461
+P462,coffee,,drinkable,C0462
+P463,tea,Large,eatable,C0463
+P464,shake,,eatable,C0464
+P465,sandwiches,,eatable,C0465
+P466,coffee,Small,eatable,C0466
+P467,sandwiches,Small,drinkable,C0467
+P468,coffee,,eatable,C0468
+P469,tea,Medium,drinkable,C0469
+P470,shake,Large,Drink Food,C0470
+P471,sandwiches,Small,drinkable,C0471
+P472,coffee,,eatable,C0472
+P473,sandwiches,Small,eatable,C0473
+P474,coffee,,eatable,C0474
+P475,tea,Large,eatable,C0475
+P476,shake,,drinkable,C0476
+P477,sandwiches,,eatable,C0477
+P478,coffee,Small,drinkable,C0478
+P479,sandwiches,Small,Drink Food,C0479
+P480,coffee,,drinkable,C0480
+P481,tea,Medium,eatable,C0481
+P482,shake,Large,eatable,C0482
+P483,sandwiches,Small,eatable,C0483
+P484,coffee,,eatable,C0484
+P485,sandwiches,Small,drinkable,C0485
+P486,coffee,,eatable,C0486
+P487,tea,Large,drinkable,C0487
+P488,shake,,Drink Food,C0488
+P489,sandwiches,,drinkable,C0489
+P490,coffee,Small,eatable,C0490
+P491,sandwiches,Large,eatable,C0491
+P492,coffee,,eatable,C0492
+P493,tea,,eatable,C0493
+P494,shake,Small,drinkable,C0494
+P495,sandwiches,Small,eatable,C0495
+P496,coffee,,drinkable,C0496
+P497,sandwiches,Medium,Drink Food,C0497
+P498,coffee,Large,drinkable,C0498
+P499,tea,Small,eatable,C0499
+P500,shake,,eatable,C0500
+P501,sandwiches,Small,eatable,C0501
+P502,coffee,,eatable,C0502
+P503,sandwiches,Large,drinkable,C0503
+P504,coffee,,eatable,C0504
+P505,tea,,drinkable,C0505
+P506,shake,Small,Drink Food,C0506
+P507,sandwiches,Small,drinkable,C0507
+P508,coffee,,eatable,C0508
+P509,sandwiches,Medium,eatable,C0509
+P510,coffee,Large,eatable,C0510
+P511,tea,Small,eatable,C0511
+P512,shake,,drinkable,C0512
+P513,sandwiches,Small,eatable,C0513
+P514,coffee,,drinkable,C0514
+P515,sandwiches,Large,Drink Food,C0515
+P516,coffee,,drinkable,C0516
+P517,tea,,eatable,C0517
+P518,shake,Small,eatable,C0518
+P519,sandwiches,Small,eatable,C0519
+P520,coffee,,eatable,C0520
+P521,sandwiches,Medium,drinkable,C0521
+P522,coffee,Large,eatable,C0522
+P523,tea,Small,drinkable,C0523
+P524,shake,,Drink Food,C0524
+P525,sandwiches,Small,drinkable,C0525
+P526,coffee,,eatable,C0526
+P527,sandwiches,Large,eatable,C0527
+P528,coffee,,eatable,C0528
+P529,tea,,eatable,C0529
+P530,shake,Small,drinkable,C0530
+P531,sandwiches,Small,eatable,C0531
+P532,coffee,,drinkable,C0532
+P533,sandwiches,Medium,drinkable,C0533
+P534,coffee,Large,Drink Food,C0534
+P535,tea,Small,drinkable,C0535
+P536,shake,,drinkable,C0536
+P537,sandwiches,Small,Drink Food,C0537
+P538,coffee,,drinkable,C0538
+P539,sandwiches,Large,drinkable,C0539
+P540,coffee,,Drink Food,C0540
+P541,tea,,drinkable,C0541
+P542,shake,Small,drinkable,C0542
+P543,sandwiches,Small,Drink Food,C0543
+P544,coffee,,drinkable,C0544
+P545,sandwiches,Medium,drinkable,C0545
+P546,coffee,Large,Drink Food,C0546
+P547,tea,Small,drinkable,C0547
+P548,shake,,drinkable,C0548
+P549,sandwiches,Small,Drink Food,C0549
+P550,coffee,,drinkable,C0550
+P551,sandwiches,Large,drinkable,C0551
+P552,coffee,,Drink Food,C0552
+P553,tea,,drinkable,C0553
+P554,shake,Small,drinkable,C0554
+P555,sandwiches,Small,Drink Food,C0555
+P556,coffee,,drinkable,C0556
+P557,sandwiches,Medium,drinkable,C0557
+P558,coffee,Large,Drink Food,C0558
+P559,tea,Small,drinkable,C0559
+P560,shake,,drinkable,C0560
+P561,sandwiches,Small,Drink Food,C0561
+P562,coffee,,drinkable,C0562
+P563,sandwiches,Large,drinkable,C0563
+P564,coffee,,Drink Food,C0564
+P565,tea,,drinkable,C0565
+P566,shake,Small,drinkable,C0566
+P567,sandwiches,Large,Drink Food,C0567
+P568,coffee,,drinkable,C0568
+P569,sandwiches,,drinkable,C0569
+P570,coffee,Small,Drink Food,C0570
+P571,tea,Small,drinkable,C0571
+P572,shake,,drinkable,C0572
+P573,sandwiches,Medium,Drink Food,C0573
+P574,coffee,Large,drinkable,C0574
+P575,sandwiches,Small,drinkable,C0575
+P576,coffee,,Drink Food,C0576
+P577,tea,Small,drinkable,C0577
+P578,shake,,drinkable,C0578
+P579,sandwiches,Large,Drink Food,C0579
+P580,coffee,,drinkable,C0580
+P581,sandwiches,,drinkable,C0581
+P582,coffee,Small,Drink Food,C0582
+P583,tea,Small,drinkable,C0583
+P584,shake,,drinkable,C0584
+P585,sandwiches,Medium,Drink Food,C0585
+P586,coffee,Large,drinkable,C0586
+P587,sandwiches,Small,drinkable,C0587
+P588,coffee,,Drink Food,C0588
+P589,tea,Small,drinkable,C0589
+P590,shake,,drinkable,C0590
+P591,sandwiches,Large,Drink Food,C0591
+P592,coffee,,drinkable,C0592
+P593,sandwiches,,drinkable,C0593
+P594,coffee,Small,Drink Food,C0594
+P595,tea,Small,drinkable,C0595
+P596,shake,,drinkable,C0596
+P597,sandwiches,Medium,Drink Food,C0597
+P598,coffee,Large,drinkable,C0598
+P599,sandwiches,Small,drinkable,C0599
+P600,coffee,,Drink Food,C0600
+P601,tea,Small,drinkable,C0601
+P602,shake,,drinkable,C0602
+P603,sandwiches,Large,Drink Food,C0603
+P604,coffee,,drinkable,C0604
+P605,sandwiches,,drinkable,C0605
+P606,coffee,Small,Drink Food,C0606
+P607,tea,Small,drinkable,C0607
+P608,shake,,drinkable,C0608
+P609,sandwiches,Medium,Drink Food,C0609
+P610,coffee,Large,drinkable,C0610
+P611,sandwiches,Small,drinkable,C0611
+P612,coffee,,Drink Food,C0612
+P613,tea,Small,drinkable,C0613
+P614,shake,,drinkable,C0614
+P615,sandwiches,Large,Drink Food,C0615
+P616,coffee,,drinkable,C0616
+P617,sandwiches,,drinkable,C0617
+P618,coffee,Small,Drink Food,C0618
+P619,tea,Small,drinkable,C0619
+P620,shake,,drinkable,C0620
+P621,sandwiches,Medium,Drink Food,C0621
+P622,coffee,Large,drinkable,C0622
+P623,sandwiches,Small,drinkable,C0623
+P624,coffee,,Drink Food,C0624
+P625,tea,Small,drinkable,C0625
+P626,shake,,drinkable,C0626
+P627,sandwiches,Large,Drink Food,C0627
+P628,coffee,,drinkable,C0628
+P629,sandwiches,,drinkable,C0629
+P630,coffee,Small,Drink Food,C0630
+P631,tea,Small,drinkable,C0631
+P632,shake,,drinkable,C0632
+P633,sandwiches,Medium,Drink Food,C0633
+P634,coffee,Large,drinkable,C0634
+P635,sandwiches,Small,drinkable,C0635
+P636,coffee,,Drink Food,C0636
+P637,tea,Small,Drink Food,C0637
+P638,shake,,drinkable,C0638
+P639,sandwiches,Large,drinkable,C0639
+P640,coffee,,Drink Food,C0640
+P641,sandwiches,,drinkable,C0641
+P642,coffee,Small,drinkable,C0642
+P643,tea,Large,Drink Food,C0643
+P644,shake,,Drink Food,C0644
+P645,sandwiches,,drinkable,C0645
+P646,coffee,Small,drinkable,C0646
+P647,sandwiches,Small,Drink Food,C0647
+P648,coffee,,drinkable,C0648
+P649,tea,Medium,drinkable,C0649
+P650,shake,Large,Drink Food,C0650
+P651,sandwiches,Small,Drink Food,C0651
+P652,coffee,,drinkable,C0652
+P653,sandwiches,Small,drinkable,C0653
+P654,coffee,,Drink Food,C0654
+P655,tea,Large,drinkable,C0655
+P656,shake,,drinkable,C0656
+P657,sandwiches,,Drink Food,C0657
+P658,coffee,Small,Drink Food,C0658
+P659,sandwiches,Small,drinkable,C0659
+P660,coffee,,drinkable,C0660
+P661,tea,Medium,Drink Food,C0661
+P662,shake,Large,drinkable,C0662
+P663,sandwiches,Small,drinkable,C0663
+P664,coffee,,Drink Food,C0664
+P665,sandwiches,Small,Drink Food,C0665
+P666,coffee,,drinkable,C0666
+P667,tea,Large,drinkable,C0667
+P668,shake,,Drink Food,C0668
+P669,sandwiches,,drinkable,C0669
+P670,coffee,Small,drinkable,C0670
+P671,sandwiches,Small,Drink Food,C0671
+P672,coffee,,Drink Food,C0672
+P673,tea,Medium,drinkable,C0673
+P674,shake,Large,drinkable,C0674
+P675,sandwiches,Small,Drink Food,C0675
+P676,coffee,,drinkable,C0676
+P677,sandwiches,Small,drinkable,C0677
+P678,coffee,,Drink Food,C0678
+P679,tea,Large,Drink Food,C0679
+P680,shake,,drinkable,C0680
+P681,sandwiches,,drinkable,C0681
+P682,coffee,Small,Drink Food,C0682
+P683,sandwiches,Small,drinkable,C0683
+P684,coffee,,drinkable,C0684
+P685,tea,Medium,Drink Food,C0685
+P686,shake,Large,Drink Food,C0686
+P687,sandwiches,Small,drinkable,C0687
+P688,coffee,,drinkable,C0688
+P689,sandwiches,Small,Drink Food,C0689
+P690,coffee,,drinkable,C0690
+P691,tea,Large,drinkable,C0691
+P692,shake,,Drink Food,C0692
+P693,sandwiches,,Drink Food,C0693
+P694,coffee,Small,drinkable,C0694
+P695,sandwiches,Small,drinkable,C0695
+P696,coffee,,Drink Food,C0696
+P697,tea,Medium,drinkable,C0697
+P698,shake,Large,drinkable,C0698
+P699,sandwiches,Small,Drink Food,C0699
+P700,coffee,,Drink Food,C0700
+P701,sandwiches,Small,drinkable,C0701
+P702,coffee,,drinkable,C0702
+P703,tea,Large,Drink Food,C0703
+P704,shake,,drinkable,C0704
+P705,sandwiches,,drinkable,C0705
+P706,coffee,Small,Drink Food,C0706
+P707,sandwiches,Small,Drink Food,C0707
+P708,coffee,,drinkable,C0708
+P709,tea,Medium,drinkable,C0709
+P710,shake,Large,Drink Food,C0710
+P711,sandwiches,Small,drinkable,C0711
+P712,coffee,,drinkable,C0712
+P713,sandwiches,Small,Drink Food,C0713
+P714,coffee,,Drink Food,C0714
+P715,tea,Large,drinkable,C0715
+P716,shake,,drinkable,C0716
+P717,sandwiches,,Drink Food,C0717
+P718,coffee,Small,drinkable,C0718
+P719,sandwiches,Large,drinkable,C0719
+P720,coffee,,Drink Food,C0720
+P721,tea,,Drink Food,C0721
+P722,shake,Small,drinkable,C0722
+P723,sandwiches,Small,drinkable,C0723
+P724,coffee,,Drink Food,C0724
+P725,sandwiches,Medium,drinkable,C0725
+P726,coffee,Large,drinkable,C0726
+P727,tea,Small,Drink Food,C0727
+P728,shake,,Drink Food,C0728
+P729,sandwiches,Small,drinkable,C0729
+P730,coffee,,drinkable,C0730
+P731,sandwiches,Large,Drink Food,C0731
+P732,coffee,,drinkable,C0732
+P733,tea,,drinkable,C0733
+P734,shake,Small,Drink Food,C0734
+P735,sandwiches,Small,Drink Food,C0735
+P736,coffee,,drinkable,C0736
+P737,sandwiches,Medium,drinkable,C0737
+P738,coffee,Large,Drink Food,C0738
+P739,tea,Small,drinkable,C0739
+P740,shake,,drinkable,C0740
+P741,sandwiches,Small,Drink Food,C0741
+P742,coffee,,Drink Food,C0742
+P743,sandwiches,Large,drinkable,C0743
+P744,coffee,,drinkable,C0744
+P745,tea,,Drink Food,C0745
+P746,shake,Small,drinkable,C0746
+P747,sandwiches,Small,drinkable,C0747
+P748,coffee,,Drink Food,C0748
+P749,sandwiches,Medium,Drink Food,C0749
+P750,coffee,Large,drinkable,C0750
+P751,tea,Small,drinkable,C0751
+P752,shake,,Drink Food,C0752
+P753,sandwiches,Small,drinkable,C0753
+P754,coffee,,drinkable,C0754
+P755,sandwiches,Large,Drink Food,C0755
+P756,coffee,,Drink Food,C0756
+P757,tea,,drinkable,C0757
+P758,shake,Small,drinkable,C0758
+P759,sandwiches,Small,Drink Food,C0759
+P760,coffee,,drinkable,C0760
+P761,sandwiches,Medium,drinkable,C0761
+P762,coffee,Large,Drink Food,C0762
+P763,tea,Small,Drink Food,C0763
+P764,shake,,drinkable,C0764
+P765,sandwiches,Small,drinkable,C0765
+P766,coffee,,Drink Food,C0766
+P767,sandwiches,Large,drinkable,C0767
+P768,coffee,,drinkable,C0768
+P769,tea,,Drink Food,C0769
+P770,shake,Small,Drink Food,C0770
+P771,sandwiches,Small,drinkable,C0771
+P772,coffee,,drinkable,C0772
+P773,sandwiches,Medium,Drink Food,C0773
+P774,coffee,Large,drinkable,C0774
+P775,tea,Small,drinkable,C0775
+P776,shake,,Drink Food,C0776
+P777,sandwiches,Small,Drink Food,C0777
+P778,coffee,,drinkable,C0778
+P779,sandwiches,Large,drinkable,C0779
+P780,coffee,,Drink Food,C0780
+P781,tea,,drinkable,C0781
+P782,shake,Small,drinkable,C0782
+P783,sandwiches,Small,Drink Food,C0783
+P784,coffee,,Drink Food,C0784
+P785,sandwiches,Medium,drinkable,C0785
+P786,coffee,Large,drinkable,C0786
+P787,tea,Small,Drink Food,C0787
+P788,shake,,drinkable,C0788
+P789,sandwiches,Small,drinkable,C0789
+P790,coffee,,Drink Food,C0790
+P791,sandwiches,Large,Drink Food,C0791
+P792,coffee,,drinkable,C0792
+P793,tea,,drinkable,C0793
+P794,shake,Small,Drink Food,C0794
+P795,sandwiches,Large,drinkable,C0795
+P796,coffee,,drinkable,C0796
+P797,sandwiches,,Drink Food,C0797
+P798,coffee,Small,Drink Food,C0798
+P799,tea,Small,drinkable,C0799
+P800,shake,,drinkable,C0800
+P801,sandwiches,Medium,Drink Food,C0801
+P802,coffee,Large,drinkable,C0802
+P803,sandwiches,Small,drinkable,C0803
+P804,coffee,,Drink Food,C0804
+P805,tea,Small,Drink Food,C0805
+P806,shake,,drinkable,C0806
+P807,sandwiches,Large,drinkable,C0807
+P808,coffee,,Drink Food,C0808
+P809,sandwiches,,drinkable,C0809
+P810,coffee,Small,drinkable,C0810
+P811,tea,Small,Drink Food,C0811
+P812,shake,,Drink Food,C0812
+P813,sandwiches,Medium,drinkable,C0813
+P814,coffee,Large,drinkable,C0814
+P815,sandwiches,Small,Drink Food,C0815
+P816,coffee,,drinkable,C0816
+P817,tea,Small,drinkable,C0817
+P818,shake,,Drink Food,C0818
+P819,sandwiches,Large,Drink Food,C0819
+P820,coffee,,drinkable,C0820
+P821,sandwiches,,drinkable,C0821
+P822,coffee,Small,Drink Food,C0822
+P823,tea,Small,drinkable,C0823
+P824,shake,,drinkable,C0824
+P825,sandwiches,Medium,Drink Food,C0825
+P826,coffee,Large,Drink Food,C0826
+P827,sandwiches,Small,drinkable,C0827
+P828,coffee,,drinkable,C0828
+P829,tea,Small,Drink Food,C0829
+P830,shake,,drinkable,C0830
+P831,sandwiches,Large,drinkable,C0831
+P832,coffee,,Drink Food,C0832
+P833,sandwiches,,Drink Food,C0833
+P834,coffee,Small,drinkable,C0834
+P835,tea,Small,drinkable,C0835
+P836,shake,,Drink Food,C0836
+P837,sandwiches,Medium,drinkable,C0837
+P838,coffee,Large,drinkable,C0838
+P839,sandwiches,Small,Drink Food,C0839
+P840,coffee,,Drink Food,C0840
+P841,tea,Small,drinkable,C0841
+P842,shake,,drinkable,C0842
+P843,sandwiches,Large,Drink Food,C0843
+P844,coffee,,drinkable,C0844
+P845,sandwiches,,drinkable,C0845
+P846,coffee,Small,Drink Food,C0846
+P847,tea,Small,Drink Food,C0847
+P848,shake,,drinkable,C0848
+P849,sandwiches,Medium,drinkable,C0849
+P850,coffee,Large,Drink Food,C0850
+P851,sandwiches,Small,drinkable,C0851
+P852,coffee,,drinkable,C0852
+P853,tea,Small,Drink Food,C0853
+P854,shake,,Drink Food,C0854
+P855,sandwiches,Large,drinkable,C0855
+P856,coffee,,drinkable,C0856
+P857,sandwiches,,Drink Food,C0857
+P858,coffee,Small,drinkable,C0858
+P859,tea,Small,drinkable,C0859
+P860,shake,,Drink Food,C0860
+P861,sandwiches,Medium,Drink Food,C0861
+P862,coffee,Large,drinkable,C0862
+P863,sandwiches,Small,drinkable,C0863
+P864,coffee,,Drink Food,C0864
+P865,tea,Small,drinkable,C0865
+P866,shake,,drinkable,C0866
+P867,sandwiches,Large,Drink Food,C0867
+P868,coffee,,Drink Food,C0868
+P869,sandwiches,,drinkable,C0869
+P870,coffee,Small,drinkable,C0870
+P871,tea,Large,Drink Food,C0871
+P872,shake,,drinkable,C0872
+P873,sandwiches,,drinkable,C0873
+P874,coffee,Small,Drink Food,C0874
+P875,sandwiches,Small,Drink Food,C0875
+P876,coffee,,drinkable,C0876
+P877,tea,Medium,drinkable,C0877
+P878,shake,Large,Drink Food,C0878
+P879,sandwiches,Small,drinkable,C0879
+P880,coffee,,drinkable,C0880
+P881,sandwiches,Small,Drink Food,C0881
+P882,coffee,,Drink Food,C0882
+P883,tea,Large,drinkable,C0883
+P884,shake,,drinkable,C0884
+P885,sandwiches,,Drink Food,C0885
+P886,coffee,Small,drinkable,C0886
+P887,sandwiches,Small,drinkable,C0887
+P888,coffee,,Drink Food,C0888
+P889,tea,Medium,Drink Food,C0889
+P890,shake,Large,drinkable,C0890
+P891,sandwiches,Small,drinkable,C0891
+P892,coffee,,Drink Food,C0892
+P893,sandwiches,Small,drinkable,C0893
+P894,coffee,,drinkable,C0894
+P895,tea,Large,Drink Food,C0895
+P896,shake,,Drink Food,C0896
+P897,sandwiches,,drinkable,C0897
+P898,coffee,Small,drinkable,C0898
+P899,sandwiches,Small,Drink Food,C0899
+P900,coffee,,drinkable,C0900
+P901,tea,Medium,drinkable,C0901
+P902,shake,Large,Drink Food,C0902
+P903,sandwiches,Small,Drink Food,C0903
+P904,coffee,,drinkable,C0904
+P905,sandwiches,Small,drinkable,C0905
+P906,coffee,,Drink Food,C0906
+P907,tea,Large,drinkable,C0907
+P908,shake,,drinkable,C0908
+P909,sandwiches,,Drink Food,C0909
+P910,coffee,Small,Drink Food,C0910
+P911,sandwiches,Small,drinkable,C0911
+P912,coffee,,drinkable,C0912
+P913,tea,Medium,Drink Food,C0913
+P914,shake,Large,drinkable,C0914
+P915,sandwiches,Small,drinkable,C0915
+P916,coffee,,Drink Food,C0916
+P917,sandwiches,Small,Drink Food,C0917
+P918,coffee,,drinkable,C0918
+P919,tea,Large,drinkable,C0919
+P920,shake,,Drink Food,C0920
+P921,sandwiches,,drinkable,C0921
+P922,coffee,Small,drinkable,C0922
+P923,sandwiches,Small,Drink Food,C0923
+P924,coffee,,Drink Food,C0924
+P925,tea,Medium,drinkable,C0925
+P926,shake,Large,drinkable,C0926
+P927,sandwiches,Small,Drink Food,C0927
+P928,coffee,,drinkable,C0928
+P929,sandwiches,Small,drinkable,C0929
+P930,coffee,,Drink Food,C0930
+P931,tea,Large,Drink Food,C0931
+P932,shake,,drinkable,C0932
+P933,sandwiches,,drinkable,C0933
+P934,coffee,Small,Drink Food,C0934
+P935,sandwiches,Small,drinkable,C0935
+P936,coffee,,drinkable,C0936
+P937,tea,Medium,Drink Food,C0937
+P938,shake,Large,Drink Food,C0938
+P939,sandwiches,Small,drinkable,C0939
+P940,coffee,,drinkable,C0940
+P941,sandwiches,Small,Drink Food,C0941
+P942,coffee,,drinkable,C0942
+P943,tea,Large,drinkable,C0943
+P944,shake,,Drink Food,C0944
+P945,sandwiches,,Drink Food,C0945
+P946,coffee,Small,drinkable,C0946
+P947,sandwiches,Large,drinkable,C0947
+P948,coffee,,Drink Food,C0948
+P949,tea,,drinkable,C0949
+P950,shake,Small,drinkable,C0950
+P951,sandwiches,Small,Drink Food,C0951
+P952,coffee,,Drink Food,C0952
+P953,sandwiches,Medium,drinkable,C0953
+P954,coffee,Large,drinkable,C0954
+P955,tea,Small,Drink Food,C0955
+P956,shake,,drinkable,C0956
+P957,sandwiches,Small,drinkable,C0957
+P958,coffee,,Drink Food,C0958
+P959,sandwiches,Large,Drink Food,C0959
+P960,coffee,,drinkable,C0960
+P961,tea,,drinkable,C0961
+P962,shake,Small,Drink Food,C0962
+P963,sandwiches,Small,drinkable,C0963
+P964,coffee,,drinkable,C0964
+P965,sandwiches,Medium,Drink Food,C0965
+P966,coffee,Large,Drink Food,C0966
+P967,tea,Small,drinkable,C0967
+P968,shake,,drinkable,C0968
+P969,sandwiches,Small,Drink Food,C0969
+P970,coffee,,drinkable,C0970
+P971,sandwiches,Large,drinkable,C0971
+P972,coffee,,Drink Food,C0972
+P973,tea,,Drink Food,C0973
+P974,shake,Small,drinkable,C0974
+P975,sandwiches,Small,drinkable,C0975
+P976,coffee,,Drink Food,C0976
+P977,sandwiches,Medium,drinkable,C0977
+P978,coffee,Large,drinkable,C0978
+P979,tea,Small,Drink Food,C0979
+P980,shake,,Drink Food,C0980
+P981,sandwiches,Small,drinkable,C0981
+P982,coffee,,drinkable,C0982
+P983,sandwiches,Large,Drink Food,C0983
+P984,coffee,,drinkable,C0984
+P985,tea,,drinkable,C0985
+P986,shake,Small,Drink Food,C0986
+P987,sandwiches,Small,Drink Food,C0987
+P988,coffee,,drinkable,C0988
+P989,sandwiches,Medium,drinkable,C0989
+P990,coffee,Large,Drink Food,C0990
+P991,tea,Small,drinkable,C0991
+P992,shake,,drinkable,C0992
+P993,sandwiches,Small,Drink Food,C0993
+P994,coffee,,Drink Food,C0994
+P995,sandwiches,Large,drinkable,C0995
+P996,coffee,,drinkable,C0996
+P997,tea,,Drink Food,C0997
+P998,shake,Small,drinkable,C0998
+P999,sandwiches,Small,drinkable,C0999
+P1000,coffee,,Drink Food,C1000
